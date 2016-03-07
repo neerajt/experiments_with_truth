@@ -14,7 +14,7 @@ baseurl: "/mangonotes"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: "Experiments with Truth"
+title: "Mangonotes"
 
 # Short description of your site
 description: "A blog about a reproducible research experiment"
